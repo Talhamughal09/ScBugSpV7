@@ -709,7 +709,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://pomf2.lain.la/f/xpr6mjpd.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -752,7 +752,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -812,7 +812,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -860,7 +860,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -905,7 +905,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -956,7 +956,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -1011,7 +1011,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -1056,7 +1056,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -1096,7 +1096,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -1145,7 +1145,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -1187,7 +1187,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -1241,7 +1241,7 @@ tdx.sendMessage(m.chat, {
                             title: `𝗦𝗣𝗜𝗗𝗘𝗥-𝗩7`,
                             body: `𝙎𝙖𝙣𝙕 𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: `https://telegra.ph/file/ad0a4c2c76a99c4fd9484.jpg`, 
-                            sourceUrl: `https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G`,
+                            sourceUrl: `https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32`,
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -1510,7 +1510,7 @@ break
                             title: `sᵖⁱᵈᵉʳ ᴠ7`,
                             body: `𝙎𝙖𝙣𝙕𝙆𝙖𝙡𝙨𝙚𝙡 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇`,
                             thumbnailUrl: 'https://pomf2.lain.la/f/xpr6mjpd.jpg',
-                            sourceUrl: 'https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G',
+                            sourceUrl: 'https://whatsapp.com/channel/0029VahNvB6IyPtUAQ4qSl32',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
